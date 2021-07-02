@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {
+import {hgjhg
   Text,
   View,
   StyleSheet,
